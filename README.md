@@ -1,10 +1,6 @@
-Absolutely! Here's a basic `README.md` template you can use for your **Face Attendance System** project:
-
----
 
 ### 📄 `README.md`
 
-```markdown
 # Face Attendance System
 
 This is a Python-based Face Recognition Attendance System that uses OpenCV and face recognition libraries to automatically mark attendance based on facial recognition.
@@ -49,24 +45,7 @@ face\_attendance\_system/
 3. The webcam scans for faces in real-time.
 4. Recognized faces are marked "Present" in `attendance.csv`.
 
-## 📦 Setup Instructions
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/jainmary-1877/face_attendance.git
-   cd face_attendance
-````
-
-2. Install required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app:
-
-   ```bash
-   python main.py
    ```
 
 ## 🙋‍♀️ Author
