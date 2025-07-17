@@ -1,0 +1,18 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment and config files
+.env
+config.py
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore attendance CSV if it's not meant for tracking
+attendance.csv
